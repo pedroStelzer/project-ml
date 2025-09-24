@@ -1,0 +1,151 @@
+{
+  "data": [
+    {
+      "league_type": "domestic_leagues",
+      "leagues": [
+        {
+          "league_id": 9,
+          "competition_name": "Premier League",
+          "gender": "M",
+          "first_season": "1888-1889",
+          "last_season": "2025-2026",
+          "tier": "1st"
+        },
+        {
+          "league_id": 189,
+          "competition_name": "FA Women's Super League",
+          "gender": "F",
+          "first_season": "2017",
+          "last_season": "2025-2026",
+          "tier": "1st"
+        },
+        {
+          "league_id": 10,
+          "competition_name": "EFL Championship",
+          "gender": "M",
+          "first_season": "2001-2002",
+          "last_season": "2025-2026",
+          "tier": "2nd"
+        },
+        {
+          "league_id": 15,
+          "competition_name": "EFL League One",
+          "gender": "M",
+          "first_season": "2002-2003",
+          "last_season": "2025-2026",
+          "tier": "3rd"
+        },
+        {
+          "league_id": 16,
+          "competition_name": "EFL League Two",
+          "gender": "M",
+          "first_season": "2002-2003",
+          "last_season": "2025-2026",
+          "tier": "4th"
+        },
+        {
+          "league_id": 34,
+          "competition_name": "National League",
+          "gender": "M",
+          "first_season": "2006-2007",
+          "last_season": "2025-2026",
+          "tier": "5th"
+        }
+      ]
+    },
+    {
+      "league_type": "domestic_cups",
+      "leagues": [
+        {
+          "league_id": 690,
+          "competition_name": "EFL Cup",
+          "gender": "M",
+          "first_season": "2014-2015",
+          "last_season": "2025-2026",
+          "tier": ""
+        },
+        {
+          "league_id": 602,
+          "competition_name": "FA Community Shield",
+          "gender": "M",
+          "first_season": "2015",
+          "last_season": "2025",
+          "tier": ""
+        },
+        {
+          "league_id": 514,
+          "competition_name": "FA Cup",
+          "gender": "M",
+          "first_season": "2014-2015",
+          "last_season": "2025-2026",
+          "tier": ""
+        }
+      ]
+    },
+    {
+      "league_type": "international_competitions",
+      "leagues": [
+        {
+          "league_id": 8,
+          "competition_name": "Champions League",
+          "gender": "M"
+        },
+        {
+          "league_id": 19,
+          "competition_name": "Europa League",
+          "gender": "M"
+        },
+        {
+          "league_id": 882,
+          "competition_name": "Conference League",
+          "gender": "M"
+        }
+      ]
+    },
+    {
+      "league_type": "national_team_competitions",
+      "leagues": [
+        {
+          "league_id": 6,
+          "competition_name": "WCQ UEFA M",
+          "gender": "M"
+        },
+        {
+          "league_id": 677,
+          "competition_name": "UEFA Nations League",
+          "gender": "M"
+        },
+        {
+          "league_id": 678,
+          "competition_name": "UEFA Euro Qualifying",
+          "gender": "M"
+        },
+        {
+          "league_id": 676,
+          "competition_name": "UEFA Euro",
+          "gender": "M"
+        },
+        {
+          "league_id": 162,
+          "competition_name": "UEFA Womens Euro",
+          "gender": "F"
+        },
+        {
+          "league_id": 675,
+          "competition_name": "UEFA Womens Euro Qualification",
+          "gender": "F"
+        },
+        {
+          "league_id": 106,
+          "competition_name": "Womens World Cup",
+          "gender": "F"
+        },
+        {
+          "league_id": 160,
+          "competition_name": "WCQ UEFA W",
+          "gender": "F"
+        }
+      ]
+    }
+  ]
+}
