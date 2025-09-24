@@ -1,0 +1,226 @@
+country,country_code,governing_body,#_clubs,#_players,national_teams
+Afghanistan,AFG,AFC,0,221,"['M', 'F']"
+Albania,ALB,UEFA,17,587,"['M', 'F']"
+Algeria,ALG,CAF,0,556,"['M', 'F']"
+American Samoa,ASA,OFC,0,55,['M']
+Andorra,AND,UEFA,11,152,"['M', 'F']"
+Angola,ANG,CAF,0,330,"['M', 'F']"
+Anguilla,AIA,CONCACAF,0,137,"['M', 'F']"
+Antigua and Barbuda,ATG,CONCACAF,1,180,"['M', 'F']"
+Argentina,ARG,CONMEBOL,41,5237,"['M', 'F']"
+Armenia,ARM,UEFA,16,297,"['M', 'F']"
+Aruba,ARU,CONCACAF,0,163,"['M', 'F']"
+Australia,AUS,AFC,24,1645,"['M', 'F']"
+Austria,AUT,UEFA,43,1980,"['M', 'F']"
+Azerbaijan,AZE,UEFA,21,306,"['M', 'F']"
+Bahamas,BAH,CONCACAF,0,126,['M']
+Bahrain,BHR,AFC,0,229,"['M', 'F']"
+Bangladesh,BAN,AFC,0,188,"['M', 'F']"
+Barbados,BRB,CONCACAF,0,199,"['M', 'F']"
+Belarus,BLR,UEFA,18,427,"['M', 'F']"
+Belgium,BEL,UEFA,69,3176,"['M', 'F']"
+Belize,BLZ,CONCACAF,0,156,['M']
+Benin,BEN,CAF,0,167,"['M', 'F']"
+Bermuda,BER,CONCACAF,0,172,['M']
+Bhutan,BHU,AFC,0,117,"['M', 'F']"
+Bolivia,BOL,CONMEBOL,31,1303,"['M', 'F']"
+Bonaire,BOE,CONCACAF,0,5,
+Bosnia and Herzegovina,BIH,UEFA,18,1038,"['M', 'F']"
+Botswana,BOT,CAF,0,213,"['M', 'F']"
+Brazil,BRA,CONMEBOL,102,9651,"['M', 'F']"
+British Virgin Islands,VGB,CONCACAF,0,117,['M']
+Brunei Darussalam,BRU,AFC,0,78,['M']
+Bulgaria,BUL,UEFA,48,2010,"['M', 'F']"
+Burkina Faso,BFA,CAF,0,311,"['M', 'F']"
+Burundi,BDI,CAF,0,174,"['M', 'F']"
+Cambodia,CAM,AFC,0,155,"['M', 'F']"
+Cameroon,CMR,CAF,0,889,"['M', 'F']"
+Canada,CAN,CONCACAF,21,1039,"['M', 'F']"
+Cape Verde,CPV,CAF,0,194,"['M', 'F']"
+Cayman Islands,CAY,CONCACAF,0,145,"['M', 'F']"
+Central African Republic,CTA,CAF,0,167,['M']
+Chad,CHA,CAF,0,123,['M']
+Chile,CHI,CONMEBOL,28,1733,"['M', 'F']"
+China PR,CHN,AFC,34,1577,"['M', 'F']"
+Chinese Taipei,TPE,AFC,0,244,"['M', 'F']"
+Colombia,COL,CONMEBOL,29,2902,"['M', 'F']"
+Commonwealth of Independent States,CIS,FIFA,0,19,
+Comoros,COM,CAF,0,146,['M']
+Congo,CGO,CAF,0,279,"['M', 'F']"
+Congo DR,COD,CAF,0,400,"['M', 'F']"
+Cook Islands,COK,OFC,0,79,"['M', 'F']"
+Costa Rica,CRC,CONCACAF,0,442,"['M', 'F']"
+Côte d'Ivoire,CIV,CAF,0,837,"['M', 'F']"
+Croatia,CRO,UEFA,27,2094,"['M', 'F']"
+Cuba,CUB,CONCACAF,0,259,"['M', 'F']"
+Curaçao,CUW,CONCACAF,0,198,"['M', 'F']"
+Cyprus,CYP,UEFA,14,385,"['M', 'F']"
+Czech Republic,CZE,UEFA,35,1624,"['M', 'F']"
+Czechoslovakia,TCH,FIFA,0,172,['M']
+Denmark,DEN,UEFA,43,2284,"['M', 'F']"
+Djibouti,DJI,CAF,0,115,['M']
+Dominica,DMA,CONCACAF,0,134,['M']
+Dominican Republic,DOM,CONCACAF,0,260,"['M', 'F']"
+Ecuador,ECU,CONMEBOL,27,1674,"['M', 'F']"
+Egypt,EGY,CAF,1,364,"['M', 'F']"
+El Salvador,SLV,CONCACAF,0,394,"['M', 'F']"
+England,ENG,UEFA,1065,11228,"['M', 'F']"
+Equatorial Guinea,EQG,CAF,0,213,"['M', 'F']"
+Eritrea,ERI,CAF,0,73,['M']
+Estonia,EST,UEFA,16,280,"['M', 'F']"
+Eswatini,SWZ,CAF,0,140,"['M', 'F']"
+Ethiopia,ETH,CAF,0,206,"['M', 'F']"
+Faroe Islands,FRO,UEFA,15,251,"['M', 'F']"
+Fiji,FIJ,OFC,0,150,"['M', 'F']"
+Finland,FIN,UEFA,40,1747,"['M', 'F']"
+France,FRA,UEFA,756,16598,"['M', 'F']"
+French Guiana,GUF,CONCACAF,5,235,
+Gabon,GAB,CAF,0,180,['M']
+Gambia,GAM,CAF,0,272,"['M', 'F']"
+Georgia,GEO,UEFA,24,466,"['M', 'F']"
+Germany,GER,UEFA,466,18312,"['M', 'F']"
+Germany DR,GDR,FIFA,0,75,
+Ghana,GHA,CAF,0,1016,"['M', 'F']"
+Gibraltar,GIB,UEFA,5,129,"['M', 'F']"
+Great Britain,GBR,Great Britain,1,0,['F']
+Greece,GRE,UEFA,48,1638,"['M', 'F']"
+Grenada,GRN,CONCACAF,0,207,['M']
+Guadeloupe,GLP,CONCACAF,4,275,['M']
+Guam,GUM,AFC,0,121,"['M', 'F']"
+Guatemala,GUA,CONCACAF,0,342,"['M', 'F']"
+Guinea,GUI,CAF,0,381,['M']
+Guinea-Bissau,GNB,CAF,0,210,"['M', 'F']"
+Guyana,GUY,CONCACAF,0,173,"['M', 'F']"
+Haiti,HAI,CONCACAF,0,350,"['M', 'F']"
+Honduras,HON,CONCACAF,0,351,"['M', 'F']"
+Hong Kong,HKG,AFC,0,224,"['M', 'F']"
+Hungary,HUN,UEFA,36,2030,"['M', 'F']"
+Iceland,ISL,UEFA,19,531,"['M', 'F']"
+India,IND,AFC,42,1465,"['M', 'F']"
+Indonesia,IDN,AFC,0,404,"['M', 'F']"
+IR Iran,IRN,AFC,33,1141,"['M', 'F']"
+Iraq,IRQ,AFC,0,337,"['M', 'F']"
+Israel,ISR,UEFA,17,659,"['M', 'F']"
+Italy,ITA,UEFA,183,8247,"['M', 'F']"
+Jamaica,JAM,CONCACAF,0,536,"['M', 'F']"
+Japan,JPN,AFC,64,3319,"['M', 'F']"
+Jordan,JOR,AFC,0,247,"['M', 'F']"
+Kazakhstan,KAZ,UEFA,18,356,"['M', 'F']"
+Kenya,KEN,CAF,0,265,"['M', 'F']"
+Korea DPR,PRK,AFC,0,285,"['M', 'F']"
+Korea Republic,KOR,AFC,21,1686,"['M', 'F']"
+Kosovo,KVX,UEFA,10,419,"['M', 'F']"
+Kuwait,KUW,AFC,0,237,['M']
+Kyrgyz Republic,KGZ,AFC,0,165,"['M', 'F']"
+Laos,LAO,AFC,0,206,"['M', 'F']"
+Latvia,LVA,UEFA,21,310,"['M', 'F']"
+Lebanon,LIB,AFC,0,275,"['M', 'F']"
+Lesotho,LES,CAF,0,141,"['M', 'F']"
+Liberia,LBR,CAF,0,240,"['M', 'F']"
+Libya,LBY,CAF,0,207,['M']
+Liechtenstein,LIE,UEFA,2,153,"['M', 'F']"
+Lithuania,LTU,UEFA,20,331,"['M', 'F']"
+Luxembourg,LUX,UEFA,20,295,"['M', 'F']"
+Macau,MAC,AFC,0,122,"['M', 'F']"
+Madagascar,MAD,CAF,0,184,['M']
+Malawi,MWI,CAF,0,166,"['M', 'F']"
+Malaysia,MAS,AFC,0,325,"['M', 'F']"
+Maldives,MDV,AFC,0,178,"['M', 'F']"
+Mali,MLI,CAF,0,448,"['M', 'F']"
+Malta,MLT,UEFA,14,259,"['M', 'F']"
+Martinique,MTQ,CONCACAF,2,243,"['M', 'F']"
+Mauritania,MTN,CAF,0,141,['M']
+Mauritius,MRI,CAF,0,112,"['M', 'F']"
+Mexico,MEX,CONCACAF,29,2522,"['M', 'F']"
+Moldova,MDA,UEFA,20,363,"['M', 'F']"
+Mongolia,MNG,AFC,0,139,"['M', 'F']"
+Montenegro,MNE,UEFA,18,476,"['M', 'F']"
+Montserrat,MSR,CONCACAF,0,114,['M']
+Morocco,MAR,CAF,1,818,"['M', 'F']"
+Mozambique,MOZ,CAF,0,164,"['M', 'F']"
+Myanmar,MYA,AFC,0,232,"['M', 'F']"
+Namibia,NAM,CAF,0,160,"['M', 'F']"
+Nepal,NEP,AFC,0,201,"['M', 'F']"
+Netherlands,NED,UEFA,62,4515,"['M', 'F']"
+New Caledonia,NCL,OFC,0,182,"['M', 'F']"
+New Zealand,NZL,OFC,5,394,"['M', 'F']"
+Nicaragua,NCA,CONCACAF,0,222,"['M', 'F']"
+Niger,NIG,CAF,0,160,"['M', 'F']"
+Nigeria,NGA,CAF,0,1329,"['M', 'F']"
+North Macedonia,MKD,UEFA,25,499,"['M', 'F']"
+Northern Ireland,NIR,UEFA,16,600,"['M', 'F']"
+Norway,NOR,UEFA,53,2822,"['M', 'F']"
+Oman,OMA,AFC,0,196,['M']
+Pakistan,PAK,AFC,0,171,"['M', 'F']"
+Palestine,PLE,AFC,0,259,"['M', 'F']"
+Panama,PAN,CONCACAF,0,377,"['M', 'F']"
+Papua New Guinea,PNG,OFC,0,110,"['M', 'F']"
+Paraguay,PAR,CONMEBOL,27,1714,"['M', 'F']"
+Peru,PER,CONMEBOL,35,1612,"['M', 'F']"
+Philippines,PHI,AFC,0,276,"['M', 'F']"
+Poland,POL,UEFA,49,2746,"['M', 'F']"
+Portugal,POR,UEFA,47,2141,"['M', 'F']"
+Puerto Rico,PUR,CONCACAF,2,210,"['M', 'F']"
+Qatar,QAT,AFC,2,248,['M']
+Republic of Ireland,IRL,UEFA,18,1147,"['M', 'F']"
+Réunion,REU,CAF,4,151,
+Romania,ROU,UEFA,56,2398,"['M', 'F']"
+Russia,RUS,UEFA,53,2435,"['M', 'F']"
+Rwanda,RWA,CAF,0,184,['M']
+Samoa,SAM,OFC,0,117,"['M', 'F']"
+San Marino,SMR,UEFA,13,150,['M']
+São Tomé and Príncipe,STP,CAF,0,116,['M']
+Saudi Arabia,KSA,AFC,30,1384,"['M', 'F']"
+Scotland,SCO,UEFA,42,2620,"['M', 'F']"
+Senegal,SEN,CAF,0,971,"['M', 'F']"
+Serbia,SRB,UEFA,47,3004,"['M', 'F']"
+Serbia and Montenegro,SCG,FIFA,0,2,
+Seychelles,SEY,CAF,0,174,"['M', 'F']"
+Sierra Leone,SLE,CAF,0,222,"['M', 'F']"
+Singapore,SIN,AFC,0,223,"['M', 'F']"
+Sint Maarten,SMA,CONCACAF,0,5,
+Slovakia,SVK,UEFA,21,865,"['M', 'F']"
+Slovenia,SVN,UEFA,16,611,"['M', 'F']"
+Solomon Islands,SOL,OFC,0,111,"['M', 'F']"
+Somalia,SOM,CAF,0,116,['M']
+South Africa,RSA,CAF,36,1535,"['M', 'F']"
+South Sudan,SSD,CAF,0,194,"['M', 'F']"
+Soviet Union,URS,FIFA,0,109,['M']
+Spain,ESP,UEFA,372,10259,"['M', 'F']"
+Sri Lanka,SRI,AFC,0,143,"['M', 'F']"
+St. Kitts and Nevis,SKN,CONCACAF,0,210,"['M', 'F']"
+St. Lucia,LCA,CONCACAF,0,149,"['M', 'F']"
+St. Vincent and the Grenadines,VIN,CONCACAF,0,187,['M']
+Sudan,SDN,CAF,0,143,"['M', 'F']"
+Suriname,SUR,CONCACAF,0,214,"['M', 'F']"
+Sweden,SWE,UEFA,81,4162,"['M', 'F']"
+Switzerland,SUI,UEFA,34,1822,"['M', 'F']"
+Syria,SYR,AFC,0,300,"['M', 'F']"
+Tahiti,TAH,OFC,0,165,"['M', 'F']"
+Tajikistan,TJK,AFC,0,215,"['M', 'F']"
+Tanzania,TAN,CAF,0,233,"['M', 'F']"
+Thailand,THA,AFC,0,337,"['M', 'F']"
+Timor-Leste,TLS,AFC,0,133,"['M', 'F']"
+Togo,TOG,CAF,0,267,"['M', 'F']"
+Tonga,TGA,OFC,0,96,"['M', 'F']"
+Trinidad and Tobago,TRI,CONCACAF,0,352,"['M', 'F']"
+Tunisia,TUN,CAF,1,448,"['M', 'F']"
+Türkiye,TUR,UEFA,56,2092,"['M', 'F']"
+Turkmenistan,TKM,AFC,0,147,"['M', 'F']"
+Turks and Caicos Islands,TCA,CONCACAF,0,100,['M']
+Uganda,UGA,CAF,0,240,"['M', 'F']"
+Ukraine,UKR,UEFA,48,2399,"['M', 'F']"
+United Arab Emirates,UAE,AFC,2,339,"['M', 'F']"
+United States,USA,CONCACAF,289,7119,"['M', 'F']"
+Uruguay,URU,CONMEBOL,29,2363,['M']
+US Virgin Islands,VIR,CONCACAF,0,124,"['M', 'F']"
+Uzbekistan,UZB,AFC,0,315,"['M', 'F']"
+Vanuatu,VAN,OFC,0,117,"['M', 'F']"
+Venezuela,VEN,CONMEBOL,32,1984,"['M', 'F']"
+Vietnam,VIE,AFC,0,295,"['M', 'F']"
+Wales,WAL,UEFA,23,856,"['M', 'F']"
+Yemen,YEM,AFC,0,183,['M']
+Yugoslavia,YUG,FIFA,0,182,['M']
+Zambia,ZAM,CAF,0,302,"['M', 'F']"
+Zanzibar,ZAN,CAF,0,2,
+Zimbabwe,ZIM,CAF,0,273,"['M', 'F']"
