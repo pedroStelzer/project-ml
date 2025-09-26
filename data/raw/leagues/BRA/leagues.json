@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "league_type": "domestic_leagues",
+      "leagues": [
+        {
+          "league_id": 24,
+          "competition_name": "Campeonato Brasileiro Série A",
+          "gender": "M",
+          "first_season": "2014",
+          "last_season": "2025",
+          "tier": "1st"
+        },
+        {
+          "league_id": 206,
+          "competition_name": "Brasileirão Feminino Série A1",
+          "gender": "F",
+          "first_season": "2019",
+          "last_season": "2025",
+          "tier": "1st"
+        },
+        {
+          "league_id": 38,
+          "competition_name": "Campeonato Brasileiro Série B",
+          "gender": "M",
+          "first_season": "2014",
+          "last_season": "2025",
+          "tier": "2nd"
+        }
+      ]
+    },
+    {
+      "league_type": "international_competitions",
+      "leagues": [
+        {
+          "league_id": 14,
+          "competition_name": "Copa Libertadores",
+          "gender": "M"
+        },
+        {
+          "league_id": 205,
+          "competition_name": "Copa Sudamericana",
+          "gender": "M"
+        }
+      ]
+    },
+    {
+      "league_type": "national_team_competitions",
+      "leagues": [
+        {
+          "league_id": 4,
+          "competition_name": "WCQ CONMEBOL M",
+          "gender": "M"
+        },
+        {
+          "league_id": 685,
+          "competition_name": "Copa America",
+          "gender": "M"
+        },
+        {
+          "league_id": 1,
+          "competition_name": "World Cup",
+          "gender": "M"
+        },
+        {
+          "league_id": 158,
+          "competition_name": "Copa America Femenina",
+          "gender": "F"
+        },
+        {
+          "league_id": 180,
+          "competition_name": "Olympics W",
+          "gender": "F"
+        },
+        {
+          "league_id": 212,
+          "competition_name": "SheBelieves Cup",
+          "gender": "F"
+        },
+        {
+          "league_id": 106,
+          "competition_name": "Womens World Cup",
+          "gender": "F"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "league_type": "domestic_leagues",
+      "leagues": [
+        {
+          "league_id": 13,
+          "competition_name": "Ligue 1",
+          "gender": "M",
+          "first_season": "1995-1996",
+          "last_season": "2025-2026",
+          "tier": "1st"
+        },
+        {
+          "league_id": 193,
+          "competition_name": "Première Ligue",
+          "gender": "F",
+          "first_season": "2017-2018",
+          "last_season": "2025-2026",
+          "tier": "1st"
+        },
+        {
+          "league_id": 60,
+          "competition_name": "Ligue 2",
+          "gender": "M",
+          "first_season": "2009-2010",
+          "last_season": "2025-2026",
+          "tier": "2nd"
+        }
+      ]
+    },
+    {
+      "league_type": "domestic_cups",
+      "leagues": [
+        {
+          "league_id": 518,
+          "competition_name": "Coupe de France",
+          "gender": "M",
+          "first_season": "2014-2015",
+          "last_season": "2024-2025",
+          "tier": ""
+        },
+        {
+          "league_id": 604,
+          "competition_name": "Trophée des Champions",
+          "gender": "M",
+          "first_season": "2014",
+          "last_season": "2025",
+          "tier": ""
+        },
+        {
+          "league_id": 693,
+          "competition_name": "Coupe de la Ligue",
+          "gender": "M",
+          "first_season": "2014-2015",
+          "last_season": "2019-2020",
+          "tier": "1st"
+        }
+      ]
+    },
+    {
+      "league_type": "international_competitions",
+      "leagues": [
+        {
+          "league_id": 8,
+          "competition_name": "Champions League",
+          "gender": "M"
+        },
+        {
+          "league_id": 19,
+          "competition_name": "Europa League",
+          "gender": "M"
+        },
+        {
+          "league_id": 882,
+          "competition_name": "Conference League",
+          "gender": "M"
+        }
+      ]
+    },
+    {
+      "league_type": "national_team_competitions",
+      "leagues": [
+        {
+          "league_id": 6,
+          "competition_name": "WCQ UEFA M",
+          "gender": "M"
+        },
+        {
+          "league_id": 677,
+          "competition_name": "UEFA Nations League",
+          "gender": "M"
+        },
+        {
+          "league_id": 676,
+          "competition_name": "UEFA Euro",
+          "gender": "M"
+        },
+        {
+          "league_id": 678,
+          "competition_name": "UEFA Euro Qualifying",
+          "gender": "M"
+        },
+        {
+          "league_id": 162,
+          "competition_name": "UEFA Womens Euro",
+          "gender": "F"
+        },
+        {
+          "league_id": 675,
+          "competition_name": "UEFA Womens Euro Qualification",
+          "gender": "F"
+        },
+        {
+          "league_id": 180,
+          "competition_name": "Olympics W",
+          "gender": "F"
+        },
+        {
+          "league_id": 106,
+          "competition_name": "Womens World Cup",
+          "gender": "F"
+        },
+        {
+          "league_id": 160,
+          "competition_name": "WCQ UEFA W",
+          "gender": "F"
+        }
+      ]
+    }
+  ]
+}
