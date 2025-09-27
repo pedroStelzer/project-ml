@@ -1,0 +1,39 @@
+season_id,competition_name,#_squads,champion,top_scorer.player,top_scorer.goals_scored
+2025-2026,Fußball-Bundesliga,18,,Harry Kane,10
+2024-2025,Fußball-Bundesliga,18,Bayern Munich,Harry Kane,26
+2023-2024,Fußball-Bundesliga,18,Bayer Leverkusen,Harry Kane,36
+2022-2023,Fußball-Bundesliga,18,Bayern Munich,"['Niclas Füllkrug', 'Christopher Nkunku']",16
+2021-2022,Fußball-Bundesliga,18,Bayern Munich,Robert Lewandowski,35
+2020-2021,Fußball-Bundesliga,18,Bayern Munich,Robert Lewandowski,41
+2019-2020,Fußball-Bundesliga,18,Bayern Munich,Robert Lewandowski,34
+2018-2019,Fußball-Bundesliga,18,Bayern Munich,Robert Lewandowski,22
+2017-2018,Fußball-Bundesliga,18,Bayern Munich,Robert Lewandowski,29
+2016-2017,Fußball-Bundesliga,18,Bayern Munich,Pierre Emerick Aubameyang,31
+2015-2016,Fußball-Bundesliga,18,Bayern Munich,Robert Lewandowski,30
+2014-2015,Fußball-Bundesliga,18,Bayern Munich,Alexander Meier,19
+2013-2014,Fußball-Bundesliga,18,Bayern Munich,Robert Lewandowski,20
+2012-2013,Fußball-Bundesliga,18,Bayern Munich,Stefan Kießling,25
+2011-2012,Fußball-Bundesliga,18,Dortmund,Klaas Jan Huntelaar,29
+2010-2011,Fußball-Bundesliga,18,Dortmund,Mario Gómez,28
+2009-2010,Fußball-Bundesliga,18,Bayern Munich,Edin Džeko,22
+2008-2009,Fußball-Bundesliga,18,Wolfsburg,Grafite,28
+2007-2008,Fußball-Bundesliga,18,Bayern Munich,Luca Toni,24
+2006-2007,Fußball-Bundesliga,18,Stuttgart,Theofanis Gekas,20
+2005-2006,Fußball-Bundesliga,18,Bayern Munich,Miroslav Klose,25
+2004-2005,Fußball-Bundesliga,18,Bayern Munich,Marek Mintál,24
+2003-2004,Fußball-Bundesliga,18,Werder Bremen,Aílton Gonçalves,28
+2002-2003,Fußball-Bundesliga,18,Bayern Munich,"['Giovane Élber', 'Thomas Christiansen']",21
+2001-2002,Fußball-Bundesliga,18,Dortmund,"['Martin Max', 'Márcio Amoroso']",18
+2000-2001,Fußball-Bundesliga,18,Bayern Munich,"['Sergej Barbarez', 'Ebbe Sand']",22
+1999-2000,Fußball-Bundesliga,18,Bayern Munich,Martin Max,19
+1998-1999,Fußball-Bundesliga,18,Bayern Munich,Michael Preetz,23
+1997-1998,Fußball-Bundesliga,18,Kaiserslautern,Ulf Kirsten,22
+1996-1997,Fußball-Bundesliga,18,Bayern Munich,Ulf Kirsten,22
+1995-1996,Fußball-Bundesliga,18,Dortmund,Fredi Bobic,17
+1994-1995,Fußball-Bundesliga,18,Dortmund,"['Heiko Herrlich', 'Mario Basler']",20
+1993-1994,Fußball-Bundesliga,18,Bayern Munich,"['Stefan Kuntz', 'Tony Yeboah']",18
+1992-1993,Fußball-Bundesliga,18,Werder Bremen,"['Ulf Kirsten', 'Tony Yeboah']",20
+1991-1992,Fußball-Bundesliga,20,Stuttgart,Fritz Walter,22
+1990-1991,Fußball-Bundesliga,18,Kaiserslautern,Roland Wohlfarth,21
+1989-1990,Fußball-Bundesliga,18,Bayern Munich,Jørn Andersen,18
+1988-1989,Fußball-Bundesliga,18,Bayern Munich,"['Roland Wohlfarth', 'Thomas Allofs']",17

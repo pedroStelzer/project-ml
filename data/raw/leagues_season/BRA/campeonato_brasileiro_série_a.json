@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "season_id": "2025",
+      "competition_name": "Campeonato Brasileiro Série A",
+      "#_squads": 20,
+      "champion": "",
+      "top_scorer": {
+        "player": "Kaio Jorge",
+        "goals_scored": 15
+      }
+    },
+    {
+      "season_id": "2024",
+      "competition_name": "Campeonato Brasileiro Série A",
+      "#_squads": 20,
+      "champion": "Botafogo (RJ)",
+      "top_scorer": {
+        "player": [
+          "Alerrandro",
+          "Yuri Alberto"
+        ],
+        "goals_scored": 15
+      }
+    },
+    {
+      "season_id": "2023",
+      "competition_name": "Campeonato Brasileiro Série A",
+      "#_squads": 20,
+      "champion": "Palmeiras",
+      "top_scorer": {
+        "player": "Paulinho",
+        "goals_scored": 20
+      }
+    },
+    {
+      "season_id": "2022",
+      "competition_name": "Campeonato Brasileiro Série A",
+      "#_squads": 20,
+      "champion": "Palmeiras",
+      "top_scorer": {
+        "player": "Germán Cano",
+        "goals_scored": 26
+      }
+    },
+    {
+      "season_id": "2021",
+      "competition_name": "Campeonato Brasileiro Série A",
+      "#_squads": 20,
+      "champion": "Atlético Mineiro",
+      "top_scorer": {
+        "player": "Hulk",
+        "goals_scored": 19
+      }
+    },
+    {
+      "season_id": "2020",
+      "competition_name": "Campeonato Brasileiro Série A",
+      "#_squads": 20,
+      "champion": "Flamengo",
+      "top_scorer": {
+        "player": [
+          "Luciano",
+          "Claudinho"
+        ],
+        "goals_scored": 18
+      }
+    },
+    {
+      "season_id": "2019",
+      "competition_name": "Campeonato Brasileiro Série A",
+      "#_squads": 20,
+      "champion": "Flamengo",
+      "top_scorer": {
+        "player": "Gabriel Barbosa",
+        "goals_scored": 25
+      }
+    },
+    {
+      "season_id": "2018",
+      "competition_name": "Campeonato Brasileiro Série A",
+      "#_squads": 20,
+      "champion": "Palmeiras",
+      "top_scorer": {
+        "player": "Gabriel Barbosa",
+        "goals_scored": 18
+      }
+    },
+    {
+      "season_id": "2017",
+      "competition_name": "Campeonato Brasileiro Série A",
+      "#_squads": 20,
+      "champion": "Corinthians",
+      "top_scorer": {
+        "player": [
+          "Henrique Dourado",
+          "Jô"
+        ],
+        "goals_scored": 18
+      }
+    },
+    {
+      "season_id": "2016",
+      "competition_name": "Campeonato Brasileiro Série A",
+      "#_squads": 20,
+      "champion": "Palmeiras",
+      "top_scorer": {
+        "player": [
+          "Fred",
+          "William Pottker... "
+        ],
+        "goals_scored": 14
+      }
+    },
+    {
+      "season_id": "2015",
+      "competition_name": "Campeonato Brasileiro Série A",
+      "#_squads": 20,
+      "champion": "Corinthians",
+      "top_scorer": {
+        "player": "Ricardo Oliveira",
+        "goals_scored": 20
+      }
+    },
+    {
+      "season_id": "2014",
+      "competition_name": "Campeonato Brasileiro Série A",
+      "#_squads": 20,
+      "champion": "Cruzeiro",
+      "top_scorer": {
+        "player": "Fred",
+        "goals_scored": 18
+      }
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "data": [
+    {
+      "season_id": "2025-2026",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "",
+      "top_scorer": {
+        "player": "Kylian Mbappé",
+        "goals_scored": 7
+      }
+    },
+    {
+      "season_id": "2024-2025",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Barcelona",
+      "top_scorer": {
+        "player": "Kylian Mbappé",
+        "goals_scored": 31
+      }
+    },
+    {
+      "season_id": "2023-2024",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Real Madrid",
+      "top_scorer": {
+        "player": "Artem Dovbyk",
+        "goals_scored": 24
+      }
+    },
+    {
+      "season_id": "2022-2023",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Barcelona",
+      "top_scorer": {
+        "player": "Robert Lewandowski",
+        "goals_scored": 23
+      }
+    },
+    {
+      "season_id": "2021-2022",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Real Madrid",
+      "top_scorer": {
+        "player": "Karim Benzema",
+        "goals_scored": 27
+      }
+    },
+    {
+      "season_id": "2020-2021",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Atlético Madrid",
+      "top_scorer": {
+        "player": "Lionel Messi",
+        "goals_scored": 30
+      }
+    },
+    {
+      "season_id": "2019-2020",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Real Madrid",
+      "top_scorer": {
+        "player": "Lionel Messi",
+        "goals_scored": 25
+      }
+    },
+    {
+      "season_id": "2018-2019",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Barcelona",
+      "top_scorer": {
+        "player": "Lionel Messi",
+        "goals_scored": 36
+      }
+    },
+    {
+      "season_id": "2017-2018",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Barcelona",
+      "top_scorer": {
+        "player": "Lionel Messi",
+        "goals_scored": 34
+      }
+    },
+    {
+      "season_id": "2016-2017",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Real Madrid",
+      "top_scorer": {
+        "player": "Lionel Messi",
+        "goals_scored": 37
+      }
+    },
+    {
+      "season_id": "2015-2016",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Barcelona",
+      "top_scorer": {
+        "player": "Luis Suárez",
+        "goals_scored": 40
+      }
+    },
+    {
+      "season_id": "2014-2015",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Barcelona",
+      "top_scorer": {
+        "player": "Cristiano Ronaldo",
+        "goals_scored": 48
+      }
+    },
+    {
+      "season_id": "2013-2014",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Atlético Madrid",
+      "top_scorer": {
+        "player": "Cristiano Ronaldo",
+        "goals_scored": 31
+      }
+    },
+    {
+      "season_id": "2012-2013",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Barcelona",
+      "top_scorer": {
+        "player": "Lionel Messi",
+        "goals_scored": 46
+      }
+    },
+    {
+      "season_id": "2011-2012",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Real Madrid",
+      "top_scorer": {
+        "player": "Lionel Messi",
+        "goals_scored": 50
+      }
+    },
+    {
+      "season_id": "2010-2011",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Barcelona",
+      "top_scorer": {
+        "player": "Cristiano Ronaldo",
+        "goals_scored": 40
+      }
+    },
+    {
+      "season_id": "2009-2010",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Barcelona",
+      "top_scorer": {
+        "player": "Lionel Messi",
+        "goals_scored": 34
+      }
+    },
+    {
+      "season_id": "2008-2009",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Barcelona",
+      "top_scorer": {
+        "player": "Diego Forlán",
+        "goals_scored": 32
+      }
+    },
+    {
+      "season_id": "2007-2008",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Real Madrid",
+      "top_scorer": {
+        "player": "Dani Güiza",
+        "goals_scored": 27
+      }
+    },
+    {
+      "season_id": "2006-2007",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Real Madrid",
+      "top_scorer": {
+        "player": "Ruud van Nistelrooy",
+        "goals_scored": 25
+      }
+    },
+    {
+      "season_id": "2005-2006",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Barcelona",
+      "top_scorer": {
+        "player": "Samuel Eto'o",
+        "goals_scored": 26
+      }
+    },
+    {
+      "season_id": "2004-2005",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Barcelona",
+      "top_scorer": {
+        "player": [
+          "Samuel Eto'o",
+          "Diego Forlán"
+        ],
+        "goals_scored": 24
+      }
+    },
+    {
+      "season_id": "2003-2004",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Valencia",
+      "top_scorer": {
+        "player": "Ronaldo",
+        "goals_scored": 24
+      }
+    },
+    {
+      "season_id": "2002-2003",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Real Madrid",
+      "top_scorer": {
+        "player": "Roy Makaay",
+        "goals_scored": 29
+      }
+    },
+    {
+      "season_id": "2001-2002",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Valencia",
+      "top_scorer": {
+        "player": "Diego Tristán",
+        "goals_scored": 21
+      }
+    },
+    {
+      "season_id": "2000-2001",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Real Madrid",
+      "top_scorer": {
+        "player": "Raúl",
+        "goals_scored": 24
+      }
+    },
+    {
+      "season_id": "1999-2000",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Deportivo La Coruña",
+      "top_scorer": {
+        "player": "Salva Ballesta",
+        "goals_scored": 27
+      }
+    },
+    {
+      "season_id": "1998-1999",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Barcelona",
+      "top_scorer": {
+        "player": "Raúl",
+        "goals_scored": 25
+      }
+    },
+    {
+      "season_id": "1997-1998",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Barcelona",
+      "top_scorer": {
+        "player": "Christian Vieri",
+        "goals_scored": 24
+      }
+    },
+    {
+      "season_id": "1996-1997",
+      "competition_name": "La Liga",
+      "#_squads": 22,
+      "champion": "Real Madrid",
+      "top_scorer": {
+        "player": "Ronaldo",
+        "goals_scored": 34
+      }
+    },
+    {
+      "season_id": "1995-1996",
+      "competition_name": "La Liga",
+      "#_squads": 22,
+      "champion": "Atlético Madrid",
+      "top_scorer": {
+        "player": "Juan Antonio Pizzi",
+        "goals_scored": 31
+      }
+    },
+    {
+      "season_id": "1994-1995",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Real Madrid",
+      "top_scorer": {
+        "player": "Iván Zamorano",
+        "goals_scored": 28
+      }
+    },
+    {
+      "season_id": "1993-1994",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Barcelona",
+      "top_scorer": {
+        "player": "Romário",
+        "goals_scored": 30
+      }
+    },
+    {
+      "season_id": "1992-1993",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Barcelona",
+      "top_scorer": {
+        "player": "Bebeto",
+        "goals_scored": 29
+      }
+    },
+    {
+      "season_id": "1991-1992",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Barcelona",
+      "top_scorer": {
+        "player": "Manolo",
+        "goals_scored": 27
+      }
+    },
+    {
+      "season_id": "1990-1991",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Barcelona",
+      "top_scorer": {
+        "player": "Emilio Butragueño",
+        "goals_scored": 19
+      }
+    },
+    {
+      "season_id": "1989-1990",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Real Madrid",
+      "top_scorer": {
+        "player": "Hugo Sánchez",
+        "goals_scored": 38
+      }
+    },
+    {
+      "season_id": "1988-1989",
+      "competition_name": "La Liga",
+      "#_squads": 20,
+      "champion": "Real Madrid",
+      "top_scorer": {
+        "player": "Baltazar Maria de Morais Júnior",
+        "goals_scored": 35
+      }
+    }
+  ]
+}

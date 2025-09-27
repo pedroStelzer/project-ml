@@ -1,0 +1,128 @@
+season_id,competition_name,#_squads,champion,top_scorer.player,top_scorer.goals_scored
+2025-2026,Premier League,20,,Erling Haaland,6.0
+2024-2025,Premier League,20,Liverpool,Mohamed Salah,29.0
+2023-2024,Premier League,20,Manchester City,Erling Haaland,27.0
+2022-2023,Premier League,20,Manchester City,Erling Haaland,36.0
+2021-2022,Premier League,20,Manchester City,"['Son Heung min', 'Mohamed Salah']",23.0
+2020-2021,Premier League,20,Manchester City,Harry Kane,23.0
+2019-2020,Premier League,20,Liverpool,Jamie Vardy,23.0
+2018-2019,Premier League,20,Manchester City,"['Pierre Emerick Aubameyang', 'Sadio Mané... ']",22.0
+2017-2018,Premier League,20,Manchester City,Mohamed Salah,32.0
+2016-2017,Premier League,20,Chelsea,Harry Kane,29.0
+2015-2016,Premier League,20,Leicester City,Harry Kane,25.0
+2014-2015,Premier League,20,Chelsea,Sergio Agüero,26.0
+2013-2014,Premier League,20,Manchester City,Luis Suárez,31.0
+2012-2013,Premier League,20,Manchester United,Robin van Persie,26.0
+2011-2012,Premier League,20,Manchester City,Robin van Persie,30.0
+2010-2011,Premier League,20,Manchester United,"['Dimitar Berbatov', 'Carlos Tevez']",20.0
+2009-2010,Premier League,20,Chelsea,Didier Drogba,29.0
+2008-2009,Premier League,20,Manchester United,Nicolas Anelka,19.0
+2007-2008,Premier League,20,Manchester United,Cristiano Ronaldo,31.0
+2006-2007,FA Premier League,20,Manchester United,Didier Drogba,20.0
+2005-2006,FA Premier League,20,Chelsea,Thierry Henry,27.0
+2004-2005,FA Premier League,20,Chelsea,Thierry Henry,25.0
+2003-2004,FA Premier League,20,Arsenal,Thierry Henry,30.0
+2002-2003,FA Premier League,20,Manchester United,Ruud van Nistelrooy,25.0
+2001-2002,FA Premier League,20,Arsenal,Thierry Henry,24.0
+2000-2001,FA Premier League,20,Manchester United,Jimmy Floyd Hasselbaink,23.0
+1999-2000,FA Premier League,20,Manchester United,Kevin Phillips,30.0
+1998-1999,FA Premier League,20,Manchester United,"['Dwight Yorke', 'Jimmy Floyd Hasselbaink... ']",18.0
+1997-1998,FA Premier League,20,Arsenal,"['Michael Owen', 'Chris Sutton... ']",18.0
+1996-1997,FA Premier League,20,Manchester United,Alan Shearer,25.0
+1995-1996,FA Premier League,20,Manchester United,Alan Shearer,31.0
+1994-1995,FA Premier League,22,Blackburn Rovers,Alan Shearer,34.0
+1993-1994,FA Premier League,22,Manchester United,Andy Cole,34.0
+1992-1993,FA Premier League,22,Manchester United,Teddy Sheringham,22.0
+1991-1992,Football League First Division,22,Leeds United,,
+1990-1991,Football League First Division,20,Arsenal,,
+1989-1990,Football League First Division,20,Liverpool,,
+1988-1989,Football League First Division,20,Arsenal,,
+1987-1988,Football League First Division,21,Liverpool,,
+1986-1987,Football League First Division,22,Everton,,
+1985-1986,Football League First Division,22,Liverpool,,
+1984-1985,Football League First Division,22,Everton,,
+1983-1984,Football League First Division,22,Liverpool,,
+1982-1983,Football League First Division,22,Liverpool,,
+1981-1982,Football League First Division,22,Liverpool,,
+1980-1981,Football League First Division,22,Aston Villa,,
+1979-1980,Football League First Division,22,Liverpool,,
+1978-1979,Football League First Division,22,Liverpool,,
+1977-1978,Football League First Division,22,Nottingham Forest,,
+1976-1977,Football League First Division,22,Liverpool,,
+1975-1976,Football League First Division,22,Liverpool,,
+1974-1975,Football League First Division,22,Derby County,,
+1973-1974,Football League First Division,22,Leeds United,,
+1972-1973,Football League First Division,22,Liverpool,,
+1971-1972,Football League First Division,22,Derby County,,
+1970-1971,Football League First Division,22,Arsenal,,
+1969-1970,Football League First Division,22,Everton,,
+1968-1969,Football League First Division,22,Leeds United,,
+1967-1968,Football League First Division,22,Manchester City,,
+1966-1967,Football League First Division,22,Manchester United,,
+1965-1966,Football League First Division,22,Liverpool,,
+1964-1965,Football League First Division,22,Manchester United,,
+1963-1964,Football League First Division,22,Liverpool,,
+1962-1963,Football League First Division,22,Everton,,
+1961-1962,Football League First Division,22,Ipswich Town,,
+1960-1961,Football League First Division,22,Tottenham Hotspur,,
+1959-1960,Football League First Division,22,Burnley,,
+1958-1959,Football League First Division,22,Wolverhampton Wanderers,,
+1957-1958,Football League First Division,22,Wolverhampton Wanderers,,
+1956-1957,Football League First Division,22,Manchester United,,
+1955-1956,Football League First Division,22,Manchester United,,
+1954-1955,Football League First Division,22,Chelsea,,
+1953-1954,Football League First Division,22,Wolverhampton Wanderers,,
+1952-1953,Football League First Division,22,Arsenal,,
+1951-1952,Football League First Division,22,Manchester United,,
+1950-1951,Football League First Division,22,Tottenham Hotspur,,
+1949-1950,Football League First Division,22,Portsmouth,,
+1948-1949,Football League First Division,22,Portsmouth,,
+1947-1948,Football League First Division,22,Arsenal,,
+1946-1947,Football League First Division,22,Liverpool,,
+1938-1939,Football League First Division,22,Everton,,
+1937-1938,Football League First Division,22,Arsenal,,
+1936-1937,Football League First Division,22,Manchester City,,
+1935-1936,Football League First Division,22,Sunderland,,
+1934-1935,Football League First Division,22,Arsenal,,
+1933-1934,Football League First Division,22,Arsenal,,
+1932-1933,Football League First Division,22,Arsenal,,
+1931-1932,Football League First Division,22,Everton,,
+1930-1931,Football League First Division,22,Arsenal,,
+1929-1930,Football League First Division,22,Sheffield Wednesday,,
+1928-1929,Football League First Division,22,The Wednesday,,
+1927-1928,Football League First Division,22,Everton,,
+1926-1927,Football League First Division,22,Newcastle United,,
+1925-1926,Football League First Division,22,Huddersfield Town,,
+1924-1925,Football League First Division,22,Huddersfield Town,,
+1923-1924,Football League First Division,22,Huddersfield Town,,
+1922-1923,Football League First Division,22,Liverpool,,
+1921-1922,Football League First Division,22,Liverpool,,
+1920-1921,Football League First Division,22,Burnley,,
+1919-1920,Football League First Division,22,West Bromwich Albion,,
+1914-1915,Football League First Division,20,Everton,,
+1913-1914,Football League First Division,20,Blackburn Rovers,,
+1912-1913,Football League First Division,20,Sunderland,,
+1911-1912,Football League First Division,20,Blackburn Rovers,,
+1910-1911,Football League First Division,20,Manchester United,,
+1909-1910,Football League First Division,20,Aston Villa,,
+1908-1909,Football League First Division,20,Newcastle United,,
+1907-1908,Football League First Division,20,Manchester United,,
+1906-1907,Football League First Division,20,Newcastle United,,
+1905-1906,Football League First Division,20,Liverpool,,
+1904-1905,Football League First Division,18,Newcastle United,,
+1903-1904,Football League First Division,18,The Wednesday,,
+1902-1903,Football League First Division,18,The Wednesday,,
+1901-1902,Football League First Division,18,Sunderland,,
+1900-1901,Football League First Division,18,Liverpool,,
+1899-1900,Football League First Division,18,Aston Villa,,
+1898-1899,Football League First Division,18,Aston Villa,,
+1897-1898,Football League First Division,16,Sheffield United,,
+1896-1897,Football League First Division,16,Aston Villa,,
+1895-1896,Football League First Division,16,Aston Villa,,
+1894-1895,Football League First Division,16,Sunderland,,
+1893-1894,Football League First Division,16,Aston Villa,,
+1892-1893,Football League First Division,16,Sunderland,,
+1891-1892,Football League,14,Sunderland,,
+1890-1891,Football League,12,Everton,,
+1889-1890,Football League,12,Preston North End,,
+1888-1889,Football League,12,Preston North End,,
